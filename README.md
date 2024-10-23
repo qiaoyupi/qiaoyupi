@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 推荐一个服务器厂商
-[sharktech](https://portal.sharktech.net/aff.php?aff=1490)
+[sharktech](https://portal.sharktech.net/aff.php?aff=1490)，便宜又好用
