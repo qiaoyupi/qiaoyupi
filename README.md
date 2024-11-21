@@ -18,7 +18,7 @@ https://www.namesilo.com/domain/search-domains?rid=bd5e396ff (domain search page
 https://www.namesilo.com/pricing?rid=bd5e396ff (pricing page)
 -->
 
-😄 推荐一个服务器厂商
+1. 😄 推荐一个服务器厂商
 [sharktech](https://portal.sharktech.net/aff.php?aff=1490)，便宜又好用
-😄 推荐一个域名服务商
+2. 😄 推荐一个域名服务商
 [namesilo](https://www.namesilo.com/?rid=bd5e396ff) 便宜又好用
