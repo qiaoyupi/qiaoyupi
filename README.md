@@ -20,5 +20,6 @@ https://www.namesilo.com/pricing?rid=bd5e396ff (pricing page)
 
 1. 😄 推荐一个服务器厂商
 [sharktech](https://portal.sharktech.net/aff.php?aff=1490)，便宜又好用
-2. 😄 推荐一个域名服务商
+[speedvm](https://www.speedvm.com/aff.php?aff=134) 大陆优化
+3. 😄 推荐一个域名服务商
 [namesilo](https://www.namesilo.com/?rid=bd5e396ff) 便宜又好用
