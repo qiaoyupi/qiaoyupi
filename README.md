@@ -22,4 +22,4 @@ https://www.namesilo.com/pricing?rid=bd5e396ff (pricing page)
 - [sharktech](https://portal.sharktech.net/aff.php?aff=1490)，便宜又好用
 - [speedvm](https://www.speedvm.com/aff.php?aff=134)，便宜又好用 大陆优化
 2. 😄 推荐一个域名服务商  
-[namesilo](https://www.namesilo.com/?rid=bd5e396ff) 便宜又好用
+- [namesilo](https://www.namesilo.com/?rid=bd5e396ff) 便宜又好用
